@@ -1,7 +1,5 @@
-import chalk from 'chalk';
+import chalk from "chalk";
 
-// Simplemente reemplazamos el contenido de la variable con el nuevo logo.
-// Mantenemos el color rojo para que siga siendo impactante.
 export const logoPrincipal = chalk.red(`
 ⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⡄⠀⠀
 ⢰⠒⠒⢻⣿⣶⡒⠒⠒⠒⠒⠒⠒⠒⠒⠒⡶⠊⣰⣓⡒⡆

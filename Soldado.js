@@ -1,5 +1,3 @@
-// ./Soldado.js
-
 import EntidadDeCombate from "./EntidadDeCombate.js";
 import Inventario from "./equipamiento/Inventario.js";
 

@@ -1,5 +1,3 @@
-// ./servicios/GestorDeBatalla.js
-
 import TitanComun from "../titanes/TitanComun.js";
 import TitanAnormal from "../titanes/TitanAnormal.js";
 import TitanAcorazado from "../titanes/TitanAcorazado.js";
